@@ -47,7 +47,7 @@
 }
 
 #lightgreen {
-  border: 20px solid #F6FF33; /* this is short hand for setting
+  border: 20px solid #FFB133; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
