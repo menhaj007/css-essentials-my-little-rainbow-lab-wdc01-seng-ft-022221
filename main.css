@@ -46,7 +46,7 @@
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-#yellow {
+#lightgreen {
   border: 20px solid #F6FF33; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
@@ -58,7 +58,7 @@
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-#yellow {
+#lightblue {
   border: 20px solid #F6FF33; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
